@@ -1,6 +1,7 @@
 ---
 layout: post
-permalink: jekyll-notes
+title: Jekyll Notes
+category: notes
 ---
 
 YAML front-matter
@@ -16,22 +17,22 @@ Create list of posts
 Basically like this:
 
 {% highlight html linenos %}
-    <ul>
-      {% for post in site.posts %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
+{% raw %}
+	<ul>
+	  {% for post in site.posts %}
+	    <li>
+	      <a href="{{ post.url }}">{{ post.title }}</a>
+	    </li>
+	  {% endfor %}
     </ul>
+{% endraw %}
 {% endhighlight %}
 
 
 To create more specific lists use tags or categories:
 
->site.categories.CATEGORY
-The list of all Posts in category CATEGORY.
-site.tags.TAG
-The list of all Posts with tag TAG.
+* `site.categories.CATEGORY`:  The list of all Posts in category CATEGORY.
+* `site.tags.TAG`: The list of all Posts with tag TAG.
 
 
 How is index.html created?
@@ -40,3 +41,16 @@ How is index.html created?
 The instructions are contained in the YAML front matter to index.md.  This first instructs that the layout is page.  _layouts/page.html in turn has a layout of default.  _layouts/default.html has a theme which loads the CSS.  Then we see liquid in action; first include JB/setup, then include themes/twitter/default.html.
 
 themes/twitter/default.html is the first place you see actual HTML that gets rendered.
+
+Running locally
+---------------
+
+Run with `jekyll server --watch` in your folder.  The `--watch` option tells the server to pick up changes automatically.
+
+
+Documentation / links
+---
+
+* [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+* [Jekyll Bootstrap documentation](http://jekyllbootstrap.com)
+* [All the Liquid documentation you'll need](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers).
