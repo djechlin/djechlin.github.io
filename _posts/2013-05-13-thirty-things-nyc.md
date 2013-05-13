@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thirty Things I wish I knew before moving to NYC
+category: general
 ---
 
 I read this post [25 things I wish I knew before moving to SF.](http://jasonevanish.com/2013/01/17/25-things-i-wish-i-knew-before-moving-to-san-francisco/) So I Googled for some NY equivalents. All the ones I found were disappointing. So this is the product of my late morning some Sundays ago:
