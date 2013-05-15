@@ -40,5 +40,5 @@ This personal site is an important step in that. I am passionate enough about ex
 
 Anyway, once I plug in Olark, it will be really hard for you *not* to contact me.  But until then, please drop me an email and tell me something interesting.
 
-Cheers,
+Cheers,  
 Dan
