@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Dan Echlin's personal site
+title : Dan Echlin's Homepage
 author :
   name : Dan Echlin
   email : djechlin@gmail.com
