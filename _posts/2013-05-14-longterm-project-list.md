@@ -35,6 +35,12 @@ But I think that's not everything. It's important to maintain a big running list
 6. Music theory and history
 7. Read a Ravel biography
 
+### Fitness
+
+1. Flexibility
+2. Become a running - good form, half marathon maybe?
+3. Good workouts with trainer, includes boxing and consistent calisthenic on days off
+
 ### Technology
 
 1. The rest of Java 2.0 - understand class files, etc.
