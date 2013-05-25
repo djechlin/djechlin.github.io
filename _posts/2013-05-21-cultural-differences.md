@@ -12,6 +12,8 @@ This post does have a more specific point though. I'm kind of interested in why 
 
   In general I was much less healthy in the Midwest but I will say that at least the prospect you might exercise via running around playing as a kid, or playing with kids as an adult, does not require you to have a gym bag on you and shower close by.
 
+* Midwest is more oriented to place than events. "We're going over Grandma's house" is a pretty complete plan. Most family members are actually pretty good at enjoying that trip. This is partly because my Grandma is very lovely at these things.
+
 * You are proud of how good you are at New York. Finding shows, restaurants, being something of a subway whiz; at one end these things are competitions, at the other end a way of life. Because it also includes dating and time management, being able to make a group of people happen to do something, and, see next item.
 
 * In New York everything is indefinitely competitive. I think I learned this when I met a counterexample to this rule, by ordering a whiskey at a Prohibition-style bar - no really, it was an anachronism and had no pretenses about it - and had the bartender refer to it as "the good stuff." This caught me: What do you mean "the good stuff"? There's something profoundly plebeian about the fact that a fixed food or drink or item of clothing or musician or show or bar can be somehow, top notch. That just means you haven't searched enough to find something better.
