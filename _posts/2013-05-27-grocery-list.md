@@ -1,5 +1,5 @@
 ---
-title: Grocery list
+title: Shopping lists
 layout: post
 category: personal
 ---
@@ -16,19 +16,23 @@ Produce
 5. Broccoli
 6. Brussel Sprouts
 
-Everything else
+Grocery (probably TJ's)
 ---
 1. + Veggie burgers
-2. Bread
+2. + Bread
 3. + Tofu
 4. + Yellow curry sauce (TJ's)
+4. + Sweet / spicy mustard (TJ's)
+5. + Salsa
+6. + Trail mixes
+7. + Cashews
 5. Vegan cheese somewhere? Whole Foods probably?
 6. Mint tea
 7. + Honey
 8. + Limes
-9. Cranberry juice
+9. + Cranberry juice
 10. Seltzer
-11. Brown rice
+11. + Brown rice
 12. Pinto, black, kidney beans
 13. Tempeh
 14. + Cinnamon
@@ -36,3 +40,9 @@ Everything else
 16. + Bananas
 17. + Golden raisins
 18. + Hummus
+
+Duane Reade
+---
+1. Multivitamin
+2. Sunblock
+3. Running socks
