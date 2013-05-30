@@ -16,6 +16,7 @@ But I think that's not everything. It's important to maintain a big running list
 4. The book Ezra Klein recommended on the American oil boom
 5. The book by the Zappos guy
 6. Re-read Jane Jacobs
+7. The Power of Introverts
 
 ### TV
 
