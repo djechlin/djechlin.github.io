@@ -41,8 +41,3 @@ Grocery (probably TJ's)
 17. + Golden raisins
 18. + Hummus
 
-Duane Reade
----
-1. Multivitamin
-2. Sunblock
-3. Running socks
