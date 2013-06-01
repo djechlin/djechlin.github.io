@@ -13,3 +13,5 @@ category: personal
 4.  What would a course in end-user security literacy look like?
 
 5.  Fix that ugly wrapping tagline
+
+6.  Code rot is a culture problem
