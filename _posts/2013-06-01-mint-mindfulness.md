@@ -1,5 +1,5 @@
 ---
-title: Stay on top of your finances: it keeps you mindful
+title: Stay on top of your finances - it keeps you mindful
 layout: post
 category: general
 ---
