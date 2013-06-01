@@ -1,5 +1,5 @@
 ---
-title: Good hackathons start with problems, not with solutions
+title: NYCPublic Hackathon - Starting with a problem, not a solution
 layout: post
 category: personal
 ---
@@ -18,6 +18,7 @@ It's actually kind of amazing how much I learned today, including about what pro
 
 * The greatest learnable moment for me was when I realized that the basic schema and workflow that some of the developers worked out wasn't a complicated webapp at all.  It was a schema that pretty neatly plugged in to both a database schema as well as a UX workflow.  I realized that this was actually a product of precisely the right size for a hackathon:  the complicated web app was actually something that could be distilled into a simple schema.  I saw some complications but we were able to sort them out quickly, and have a neat, clean schema remaining.
 
-A lot of "complicated web-apps" are just pushing data around. Of course I've known this for a while, but it was somewhat magical seeing a complicated project turn into just that, and nothing more, and for us as a team to decide this was a reasonable goal for a couple days.
+    A lot of "complicated web-apps" are just pushing data around. Of course I've known this for a while, but it was somewhat magical seeing a complicated project turn into just that, and nothing more, and for us as a team to decide this was a reasonable goal for a couple days.
 
-This "full-stack developer" thing is starting to make sense to me. When projects like that start sounding easy and straightforward, there is a whole heck of a lot I'll be able to accomplish as part of a team.
+    This "full-stack developer" thing is starting to make sense to me. When projects like that start sounding easy and straightforward, more at the level of "assembling" code than innovating or coding, I'll be able to accomplish a whole heck of a lot. It's also good to realize that inflection point: when a project feels straightforward and like the coding is rote and low risk is the point at which risks diminish and estimates can be reasonably produced. It's good to recognize this.
+    
