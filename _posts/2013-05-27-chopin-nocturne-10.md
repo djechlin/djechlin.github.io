@@ -2,6 +2,7 @@
 title: Chopin's Nocturne No. 10 in A flat major
 layout: post
 category: reviews
+visibility: personal
 ---
 
 I like [this recording](http://grooveshark.com/s/Nocturne+No+10+In+Ab+Major/2Vi75v?src=5). The word that consistently comes to mind in listening to it is "plot." This piece is plot.
