@@ -5,28 +5,29 @@ layout: post
 visibility: personal
 ---
 
-### Can we get a public/personal separation?
-
-Requirements:
-
-1.  All posts have a visibility: <personal> or <public> on them.
-2. Personal ones display under echl.in/personal, which is like archive, and does not appear in site map.
-3.  Personal posts do not appear in categories or in archive.
-
-
-
-### To-do
+### Build information and person
 
 1. Links to all public profiles (LinkedIn, GitHub, StackOverflow)
-3. Weak semblance of a "private" post. The "personal" category is still public but is basically too boring so that I want it on display
-4. Category descriptions should display from category page
-5. Customize CSS in some meaningful way
-6. Posts should appear on front page
-7. Figure out how to manage comments (where do they go??)
-8. Plug in Olark
-9. Functional RSS feed, ideally split by category
+2. Get a professional picture
+3. Get a gravatar (pencil sketch?)
+4. Get posts on front page. Get introduction clipped and factored out
+
+### Make easier on me
+
+1.  Can you get me.echl.in -> echl.in/me?
+2.  You have begun code duplication; specifically the archives and categories page. This can be done in Jekyll. What you do is you factor out an include layer of those pages (somehow).
+3.  Those header links at the top of the page should be local. Again, this is doable in Jekyll. They will take a prefix variable before being insert.
+
+### Bells and whistles
+
+1. Plug in Olark
+2. Figure out how the heck comments work 
+3. Begin using Google Analytics. Note this is going to be part of getting readership.
+4. Customize CSS in some meaningful way
+5. Functional RSS feed, ideally split by category
 10. Get rid of the annoying categories @ bottom of post
 
-Completed:
+### Completed
 
 1. Functional email
+2. Private / public post separation
