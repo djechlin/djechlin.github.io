@@ -2,6 +2,7 @@
 title: Chopin's Nocturne No. 2 in E flat major
 layout: post
 category: reviews
+visibility: personal
 ---
 
 [Here's a recording.](http://grooveshark.com/s/Nocturne+No+2+Op+9+E+Flat/2LRoRe?src=5) Not sure if it's my favorite. I think Chopin's music, and I take a particular liking to his Nocturnes, is an important step in learning what is the responsibility of the composer and what is the responsibility of the performer in a piece.  I won't say anything stronger than "important step," because outside of some other romantic-era composers, I'm not sure if I've fully heard this effect, but there it is.

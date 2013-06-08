@@ -2,6 +2,7 @@
 layout: post
 title: Jekyll Notes
 category: notes
+visibility: personal
 ---
 
 YAML front-matter

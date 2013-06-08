@@ -2,6 +2,7 @@
 category: general
 title: Some cultural differences between the Midwest and New York
 layout: post
+visibility: public
 ---
 
 Was unsure the proper way to generalize. Really I'm just talking about my own experiences growing up in semi-rural Michigan and living in New York, but going with "the Midwest" and "New York," and if these are too narrow or too broad, so be it.

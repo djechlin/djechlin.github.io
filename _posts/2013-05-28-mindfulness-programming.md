@@ -2,6 +2,7 @@
 title: Mindfulness in programming
 layout: post
 category: technology
+visibility: public
 ---
 
 One of the things that attracts me to the programming profession is the immense amount of mindfulness it requires, and the variety and consortium of modes of thinking one must be capable of navigating - and this navigation-ability is itself a faculty which requires *immense* mindfulness, and I think the holy grail of being a strong programmer.  Some styles of thinking one needs to be in at any given time include:

@@ -2,6 +2,7 @@
 title: Re-centering checklist
 category: personal
 layout: post
+visibility: personal
 ---
 
 ###The checklist

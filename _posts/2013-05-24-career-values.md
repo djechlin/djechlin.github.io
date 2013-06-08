@@ -2,6 +2,7 @@
 title: Career values
 layout: post
 category: personal
+visibility: personal
 ---
 
 Time to start accumulating these, so they can be remembered and refined, instead of spin in circles.

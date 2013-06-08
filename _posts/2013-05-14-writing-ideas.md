@@ -2,6 +2,7 @@
 title: Post ideas
 layout: post
 category: personal
+visibility: personal
 ---
 
 1. How we should avoid "identity" words like "criminal," "rapist" and "unemployed," because we don't want people identifying as these things

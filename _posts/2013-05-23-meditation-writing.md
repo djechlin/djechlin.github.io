@@ -2,6 +2,7 @@
 title: Writing after meditation
 layout: post
 category: general
+visibility: public
 ---
 
 The little light tan book sitting on my table right now is my meditation journal. It's somewhat difficult choosing a meditation journal, because as the design of everyday things goes, whatever I pick is going to have some non-neutral statement on what a meditation practice is to me.

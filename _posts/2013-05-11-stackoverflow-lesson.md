@@ -2,6 +2,7 @@
 title:  What StackOverflow teaches us about personal development
 category: general
 layout: post
+visibility: public
 ---
 
 [StackOverflow](http://stackoverflow.com) is a programming Q&A site in which people who don't know what they are doing ask questions, and people who do know what they are doing answer questions to get fake internet points.  Well, these fake internet points are perhaps more useful than most, because they become part of a developer's portfolio and are an easy way to showcase communication skills to a prospective employer and such. But I digress.

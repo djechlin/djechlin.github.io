@@ -2,6 +2,7 @@
 title: Technology learning list
 layout: post
 category: general
+visibility: personal
 ---
 
 This is a running list of technologies I have been inspired to learn and what has drawn me to them, and what I think I would get out of becoming proficient. They are in no particular order.

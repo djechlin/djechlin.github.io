@@ -2,6 +2,7 @@
 title: The Twentysomething Brain and Climate Change Fear
 layout: post
 category: general
+visibility: public
 ---
 
 *Very* unfinished. There is a much stronger conclusion that can be put in, but this is recorded now until I put it together.

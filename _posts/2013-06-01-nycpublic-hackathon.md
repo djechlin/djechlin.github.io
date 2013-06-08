@@ -2,6 +2,7 @@
 title: NYCPublic Hackathon - Starting with a problem, not a solution
 layout: post
 category: personal
+visibility: personal
 ---
 
 It's actually kind of amazing how much I learned today, including about what projects are viable during hackathons.

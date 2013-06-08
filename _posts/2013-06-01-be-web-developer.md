@@ -2,6 +2,7 @@
 title: Why I want to learn web development
 category: technology
 layout: post
+visibility: public
 ---
 
 I've been "more of a backend" engineer for my career thus far, but lately at my startup have worked my way toward a full stack developer - as of this writing I've worked on page navigation and routing and data elements in HTML tags, but not on CSS or presentation - and while this is a fine career, and arguably or depending on perspective a more prestigious one, it's important to me to go the rest of the way up the stack.

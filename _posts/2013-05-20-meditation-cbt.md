@@ -2,6 +2,7 @@
 title: Is a meditation practice psychodynamic or cognitive therapy?
 layout: post
 category: general
+visibility: public
 ---
 
 Spoiler alert: it's both.

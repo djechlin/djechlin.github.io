@@ -2,6 +2,7 @@
 title: Shopping lists
 layout: post
 category: personal
+visibility: personal
 ---
 
 To be clear, "personal" means "probably of no interest to anyone but me." My grocery list is of paramount interest to me. You laugh, but your grocery list is probably not under version control. I am accepting pull requests.

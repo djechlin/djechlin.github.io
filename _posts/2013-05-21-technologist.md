@@ -2,6 +2,7 @@
 title: Technologist skill-set
 category: technology
 layout: post
+visibility: public
 ---
 
 I do have a strong desire to be a very good technologist, or programmer, or software developer, or engineer.  The word changes a lot because they all keep sounding too narrow to me. Every time I really ask myself the question, "Am I passionate about coding?" the answer is no. I am passionate about solving problems, best practices, and theory in general, but this target moves far away and around code. 

@@ -2,6 +2,7 @@
 title: Christmas gift ideas
 layout: post
 category: personal
+visibility: personal
 ---
 
 Because that problem happens where you see cool things throughout the year, just not when you need them.

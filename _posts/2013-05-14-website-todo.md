@@ -2,6 +2,7 @@
 title: Website to-dos
 category: personal
 layout: post
+visibility: personal
 ---
 
 ### Can we get a public/personal separation?

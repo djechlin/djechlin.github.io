@@ -2,6 +2,7 @@
 title: Long-term Project Wishlist
 layout: post
 category: personal
+visibility: personal
 ---
 
 Probably as a result of my time working at Bloomberg and learning project management there, I've had the philosophy that it's much better to keep your would-like-to-do list active. In Bloomberg, long-running, inactive projects and tasks are frowned-upon by the design of these systems.
