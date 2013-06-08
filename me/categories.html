@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Categories
-header: Posts By Category
-group: navigation
 ---
 {% include JB/setup %}
 
 {% for category in site.categories %} 
-	{% assign visibility = 'public' %}
+	{% assign visibility = 'personal' %}
 	{% for post in category[1] %}
 		{% assign displayCategory = false %}
 		{% if post.visibility == visibility %}

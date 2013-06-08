@@ -2,7 +2,8 @@
 The pages_list include is a listing helper.
 Usage:
   1) assign the 'pages_list' variable to a valid array of pages or posts.
-  2) include JB/pages_list
+  2) assign the 'pages_list_visibility' to 'public' or 'personal'. I require this so you do not spill out personal over everything.
+  3) include JB/pages_list
   example:
     <ul>
   	  {% assign pages_list = site.pages %}  
@@ -24,7 +25,7 @@ Usage:
   {% include custom/pages_list %}
 {% else %}
   {% for node in pages_list %}
-    {% if node.title != null %}
+    {% if node.title != null and node.visibility == pages_list_visibility %}
       {% if group == null or group == node.group %}
       	{% if page.url == node.url %}
       	<li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>

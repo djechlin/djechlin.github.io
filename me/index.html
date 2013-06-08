@@ -2,10 +2,9 @@
 layout: page
 title : Archive
 header : Post Archive
-group: navigation
 ---
 {% include JB/setup %}
 
 {% assign posts_collate = site.posts %}
-{% assign posts_collate_visibility = 'public' %}
+{% assign posts_collate_visibility = 'personal' %}
 {% include JB/posts_collate %}

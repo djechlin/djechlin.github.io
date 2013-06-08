@@ -2,7 +2,8 @@
 Collate_posts helper. Collated posts by year and month.
 Usage:
   1) assign the 'posts_collate' variable to a valid array of posts.
-  2) include JB/posts_collate
+  2) assign the 'posts_collate_visibility' to 'public' or 'personal'. I require this so you do not spill out personal over everything.
+  3) include JB/posts_collate
   example:
     {% assign posts_collate = site.posts %}
     {% include JB/posts_collate %}
@@ -21,32 +22,34 @@ Usage:
   {% include custom/posts_collate %}
 {% else %}
   {% for post in posts_collate  %}
-    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
-    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-    {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
-  
-    {% if forloop.first %}
-      <h2>{{this_year}}</h2>
-      <h3>{{this_month}}</h3>
-      <ul>
-    {% endif %}
-  
-    <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  
-    {% if forloop.last %}
-      </ul>
-    {% else %}
-      {% if this_year != next_year %}
-        </ul>
-        <h2>{{next_year}}</h2>
-        <h3>{{next_month}}</h3>
+    {% if post.visibility == posts_collate_visibility  %}
+      {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+      {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
+      {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+      {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
+
+      {% if forloop.first %}
+        <h2>{{this_year}}</h2>
+        <h3>{{this_month}}</h3>
         <ul>
-      {% else %}    
-        {% if this_month != next_month %}
+      {% endif %}
+
+      <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+
+      {% if forloop.last %}
+        </ul>
+      {% else %}
+        {% if this_year != next_year %}
           </ul>
+          <h2>{{next_year}}</h2>
           <h3>{{next_month}}</h3>
           <ul>
+        {% else %}    
+          {% if this_month != next_month %}
+            </ul>
+            <h3>{{next_month}}</h3>
+            <ul>
+          {% endif %}
         {% endif %}
       {% endif %}
     {% endif %}
