@@ -1,10 +1,25 @@
 ---
 layout: page
-title : Archive
-header : Post Archive
+title: Categories
 ---
 {% include JB/setup %}
 
-{% assign posts_collate = site.posts %}
-{% assign posts_collate_visibility = 'personal' %}
-{% include JB/posts_collate %}
+{% for category in site.categories %} 
+	{% assign visibility = 'personal' %}
+	{% for post in category[1] %}
+		{% assign displayCategory = false %}
+		{% if post.visibility == visibility %}
+			{% assign displayCategory = true %}
+		{% endif %}
+	{% endfor %}
+
+	{%if displayCategory %}
+  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: " / " | capitalize }}</h2>
+  <ul>
+  	{% assign pages_list_visibility = visibility %}
+    {% assign pages_list = category[1] %}  
+    {% include JB/pages_list %}
+  </ul>
+  {% endif %}
+{% endfor %}
+
