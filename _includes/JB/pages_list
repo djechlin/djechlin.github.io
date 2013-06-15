@@ -30,7 +30,7 @@ Usage:
       	{% if page.url == node.url %}
       	<li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
       	{% else %}
-        <li>{% if node.category == 'journal' %}{{node.date | date: "%B %e, %Y" }} &raquo; {% endif %}<a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+        <li>{% if node.category == 'journal' or node.category == 'tasks' %}{{node.date | date: "%B %e, %Y" }} &raquo; {% endif %}<a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
       	{% endif %}
       {% endif %}
     {% endif %}
