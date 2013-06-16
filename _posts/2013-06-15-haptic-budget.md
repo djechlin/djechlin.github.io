@@ -44,8 +44,3 @@ So, this is what I'm still working out. Thus far I have not found a budget commi
 #### Can we find enough meaning in austerity to self-perpetuate anyway?
 
 Well, probably, although most of this post is about having a spending structure that can reinforce this a bit more strongly.  However, it is good to bring focus to recalling very vividly, constantly, and consistently the actual joy one gets from avoiding un-pleasures. Forthcoming post.
-
-
-#### Another strategy: become sensitive to not spending money
-
-That's a somewhat tricky statement - become sensitive to not spending money. I literally do mean sensitive: you should feel the pleasure in avoiding un-pleasures as part of a person who spends carefully as much as you feel the pleasures in pleasures when you *actually* enjoy them. More on this some other time.
