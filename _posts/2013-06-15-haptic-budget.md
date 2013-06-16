@@ -1,7 +1,7 @@
 ---
 title: Developing a haptic budget
 layout: post
-category: personal
+category: general
 visibility: public
 ---
 
