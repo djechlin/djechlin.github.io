@@ -29,6 +29,16 @@ visibility: personal
 1.  Drink chamomile.  It is a soothing ritual.
 2.  Push yourself in workouts, this is a good point at which to break under-energized cycles.
 
+#### Ask: What do you treasure?
+
+A lot of off-center comes from losing site of this. And, I think un-pleasures happen because my treasure chest, I can't actually open. I know what I want in life, I know what I want to be doing, but, well, not really - I can say "I want to be fit" but that's still a closed treasure chest. I can't go deeply in enough to rediscover the inspiration and motivation. Things like, wanting to be more disciplined are somewhat useless when I'm not. So, here goes.
+
+
+
+
+
+
+
 ###When to use it
 
 It's one thing to realize that one has become out of balance or is off.  It's another thing to know what to do about that.  Downtime scheduled for sitting in a coffee shop sometimes is the right thing to do, but only if it's used to restore balance with respect to the checklist I produced above.  Feeling off, imbalanced, uncentered, or out of touch is a somewhat tense and slightly miserable feeling, so it's important to know not only to trust the feeling, but also knowing what to do about it.
