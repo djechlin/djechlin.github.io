@@ -28,13 +28,13 @@ But I think that's not everything. It's important to maintain a big running list
 
 1. Flexibility
 2. Become a running - good form, half marathon maybe?
-3. Good workouts with trainer, includes boxing and consistent calisthenic on days off
+3. ~~Good workouts with trainer, includes boxing and consistent calisthenic on days off~~
 
 ### Technology
 
 1. The rest of Java 2.0 - understand class files, etc.
 2. Scala
-3. Node.js (begun)
+3. ~~Node.js (begun)~~
 4. Browser-side technologies
 5. Groovy
 6. Python
