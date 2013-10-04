@@ -1,0 +1,20 @@
+---
+title: Feeling good while thinking dark thoughts
+layout: post
+category: personal
+visibility: personal
+---
+
+You know when I think I feel my best? When trying to impress a smart, pretty girl in a particular way.
+
+Something I may have realized is that I actually know what I'm seeking in life at at humanistic or philosophical level much more than I give myself credit for. The moments are rare, but I know them when I see them and give credit where credit is due.
+
+[George Saunders' commencement speech](http://6thfloor.blogs.nytimes.com/2013/07/31/george-saunderss-advice-to-graduates/?_r=0) was one such moment. As was [Louis C.K.'s explanation of why his daughters don't get cellphones.](http://www.youtube.com/watch?v=5HbYScltf1c) In *Snow Falling on Cedars*, when Ishmael realizes how "destruction can be beautiful." My favorite prose passage is of course in Hofstadter's description of whether computers will be able to compose beautiful music.
+
+The germ is clear. I'm looking for the moments where life's sorrow and tragedy shine in full force, yet the author or writer embraces it into something we often think of as positive. Like heroism, or triumph, or beauty. And, what's strange is when I see these tokens, I know them instantly and deeply. There is no doubt to me. My life right now is just a video game where I seek them and find them and collect them. It's strange. It invokes a lot of depression but it keeps me going, and there's such a strong conviction or sense of values underneath both the sorrows and jubilation that nothing terrible I can experience can change my mind that this is the way to pursue life.
+
+So the date thing? I want to be with someone who brings me toward that goal. Who lets me think about the future or death. But, I've noticed if the girl is really compelling to me, I just know it's so wrong to be depressive or unhappy - it's so unattractive and anathemic - that staying positive has an incredible emotional urgency to it. Every sentence that risks despair must already be looking its way back toward the light.
+
+I know this is how I felt the last time I was in love. Her face was so expressive, so that if my musings were becoming distressing, she would show it nakedly, instantly. So I would work my way back quickly. And this emotional force gave me such freedom to explore corners of my psyche that had been too dark to venture toward without losing my way and becoming a mess. That's also why it was so devastating to lose her, but I've noticed, I feel that way on any good date.
+
+Of course, this raises the question: can I carry this myself? I spend so much time thinking about how to stay positive. My meditation practice calls something similar "constant remembrance," for the phenomenon when the meditation on your own heart or divinity or goodness or humanity (pick the least appalling word) every morning infuses you. At first this sounded like an exaggeration or hoke to me, but over the course of practicing meditation and learning to tune into your thoughts in a particular way that's too paradoxical to write about but too sensical and real to dismiss, I've realized it's a very ordinary experience. Can I prick myself every time I have a negative thought and count to ten then think of puppies and roses? Well, some cognitive therapists seriously suggest these things. To me it's too divorced from the fact that some demons and dangers are in fact real. But, what if I think of how I would sound next to the pretty girl. Where coming back to being positive is emotionally urgent. I don't know if I can simulate this. But those moments I've learned don't take being in love with my ex. They can happen on a date with a pretty girl I've just met more or less as strongly. So, it's a bit more plausible I can learn this. I'm going to keep the pretty girl example in mind, and see if I can feel this way on my own.
