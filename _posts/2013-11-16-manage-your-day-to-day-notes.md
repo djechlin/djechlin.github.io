@@ -28,6 +28,6 @@ visibility: personal
 
   I mean, the basic story here is there's tremendous opportunity cost in having my attention going into these things at all, that's totally unaccounted for. And the more I see what I *actually* want to be working on and how I'm *not* working on it, the more I believe that opportunity cost ought to show up.
 
-  9. Stagger mindful and mindless work.
+9. Stagger mindful and mindless work.
 
-  10. Preserve unstructured moments as well as unstructured time. Phone checks are "expensive." I'm not sure how to do this while still owning a smartphone.
+10. Preserve unstructured moments as well as unstructured time. Phone checks are "expensive." I'm not sure how to do this while still owning a smartphone.
