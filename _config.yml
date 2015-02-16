@@ -1,5 +1,5 @@
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: true
+highlighter: pygments
 
 title : Daniel Echlin's Homepage
 description: Well-documented personal site
