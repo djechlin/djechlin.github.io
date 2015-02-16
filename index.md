@@ -1,6 +1,5 @@
 ---
 layout: post-index
-title: Latest Posts
 comments: false
 image:
   feature: shutterstock_lake_serene.jpg
