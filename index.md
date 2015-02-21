@@ -75,3 +75,23 @@ This book taught me the logic of New York. It makes city streets come to life, a
 #### Nine out of Every Ten Climber Make the Same Mistakes
 
 This book taught me to think of myself as an athlete, and I love how much direct wisdom came from an ostensible technical training book.
+
+# Articles
+
+These are some of the best articles I've read.
+
+#### [Aeon Magazine: Humanity's Deep Future](http://aeon.co/magazine/philosophy/ross-andersen-human-extinction/)
+
+This article shows Aeon magazine at its best and its worst. It is deeply imaginative while being extremely believable: about the future but still relevant. Unfortunately I believe it also shows that intellectual connections are cheap, and Aeon is full of them. Read at your own pleasure
+
+#### [Ezra Klein: What Romney Doesn't Get About Responsibility](http://www.bloomberg.com/news/articles/2012-09-18/what-mitt-romney-doesn-t-get-about-responsibility)
+
+An amazing introduction to the struggle of the poor and how cognitive bandwidth matters. I love how timeeless a piece in the heat of an election campaign turned out to be.
+
+#### [Why Developing Serious Relationships In Your Twenties Matters](https://medium.com/architecting-a-life/why-developing-serious-relationships-in-your-20s-matters-cff4161f551c)
+
+A beautiful thing about how tragic life is and how building relationships is tantamount to enduring it with grace.
+
+#### [Douglas Hofstadter: A Person Paper on the Purity of Language](http://www.cs.virginia.edu/~evans/cs655/readings/purity.html)
+
+Definitive proof of the power of showing over telling.
