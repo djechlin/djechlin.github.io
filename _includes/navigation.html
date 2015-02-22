@@ -51,14 +51,7 @@
 			</ul>
 		</li>
 		<li>
-			<a href="#">Interests</a>
-				<ul class="dl-submenu">
-					<li><a href="{{ site.url }}/interests/classical-music">Classical Music</a></li>
-					<li><a href="{{ site.url }}/interests/broadway">Broadway Musicals</a>
-					<li><a href="{{ site.url }}/interests/music">Music</a></li>
-					<li><a href="{{ site.url }}/interests/climbing">Rock Climbing</a></li>
-				</ul>
-			</a>
+			<a href="{{ site.url }}/interests">Interests</a>
 		</li>
 		{% for link in site.data.navigation %}
 	    {% if link.url contains 'http' %}
