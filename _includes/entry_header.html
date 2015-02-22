@@ -1,0 +1,24 @@
+<div class="entry-header">
+  {% if site.image.credit %}
+    <span class="image-credit">{{ site.image.credit }}</span>
+  {% endif %}
+
+  {% if site.image.feature %}
+    <div class="entry-image">
+      <img src="{{ site.url }}/images/{{ site.image.feature }}" alt="{{ page.title }}">
+    </div><!-- /.entry-image -->
+  {% endif %}
+
+  {% if page.title %}
+    <div class="header-title">
+      <div class="header-title-wrap">
+        <h1>{{ page.title }}</h1>
+      
+        {% if page.subtitle %}
+          <h2>{{ page.subtitle }}</h2>
+        {% endif %}
+
+      </div><!-- /.header-title-wrap -->
+    </div><!-- /.header-title -->
+  {% endif %}
+</div><!-- /.entry-header -->

@@ -1,9 +1,7 @@
 ---
+title: Daniel Echlin's Personal Site
 layout: post-index
 comments: false
-image:
-  feature: shutterstock_lake_serene.jpg
-  credit: Shutterstock, with help from Lake Serene, Washington
 ---
 
 # Books
