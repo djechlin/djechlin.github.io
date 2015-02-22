@@ -79,6 +79,12 @@ This book taught me the logic of New York. It makes city streets come to life, a
 
 This book taught me to think of myself as an athlete, and I love how much direct wisdom came from an ostensible technical training book.
 
+# To Read
+
+* **Les Miserables**
+* **Revolt of the Masses**
+* **Our Better Angels**
+
 # Articles
 
 These are some of the best articles I've read.
