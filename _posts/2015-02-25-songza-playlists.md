@@ -1,6 +1,7 @@
 ---
 title: The very best Songza playlists
 layout: post-index
+subtitle: These are the best
 ---
 
 Songza is the best. These are the best playlists.

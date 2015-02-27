@@ -1,5 +1,5 @@
 ---
-title: Life goal, as of today
+title: 33 Life Goals, as of Right Now
 layout: post-index
 ---
 
