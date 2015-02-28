@@ -1,6 +1,6 @@
 
 nav#dl-menu {
-	@media #{$medium}, @media #{$large} {
+	@media #{$medium}, #{$large} {
 		// The children of this element are absolute, so
 		// this has no height of its own. Must prop up
 		// before enable overflow:scroll. This is probably
