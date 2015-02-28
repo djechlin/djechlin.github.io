@@ -1,13 +1,10 @@
 ---
 title: Daniel Echlin's Personal Site
-subtitle: Learn things about me, learn things about you
 layout: post-index
 comments: false
 ---
 
-#### Everything on this site
-
-has in common that you either learn something about me, or you learn something about you. I strive for both. I try not to post things that are knowledge in a vacuum. I'd rather think about how it might affect you. So, that is the guiding principle here, and I hope you find something you enjoy.
+I try to write posts that are actually useful. Generally they are useful to me, but the more personal posts I hope readers might find useful in thinking about themselves as well.
 
 # Books
 
