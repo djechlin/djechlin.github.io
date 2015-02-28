@@ -20,4 +20,9 @@ I knew complex adaptive systems sounds interesting and relevant, and have spent 
   * Economics has a complex history. Adam Smith's *The Invisible Hand* is a key work, and is purely discursive. In the last few decades the mathematicians took over, and now rigorous deduction is the only accepted technique. This is controversial.
   * Social sciences require experimental evidence. It's very odd for a mathematician to read a social science paper that uses rigorous deduction, since it will still contain evidence. This is actually good science: inductive evidence corroborates that the rigorous model was well-applied and void of errors.
 
+  I want to share a few other "eureka" moments for completeness:
+
+  * usually we recognize emergence post-hoc. But the first evolutionary pattern arises when we consider agents playing the prisoner's dilemma, using a genetic algorithm, with communication. Sometimes, by random chance, the communication token signifies willingness to cooperate and eventually cooperators emerge because trust has randomly emerged. Then defectors start evolving too and the system collapses back to defection.
+  * The open problems in complex adaptive systems are what you think they are: What does it take for a system to demonstrate complex behavior? Is there an objective method to recognize complex behavior or emergence? What makes a system robust? And so forth.
+
  Therefore, I questioned whether complex systems is a technique or a theory. My current understanding that to think of it as a theory involves thinking of it as a maturing technique within artificial intelligence. This is good direction for now.	
