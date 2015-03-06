@@ -1,9 +1,6 @@
 ---
 title: Classical music list
-date: May 14th, 2014
-layout: post
-category: personal
-visibility: personal
+layout: post-index
 ---
 
 I've gone to a fair amount of classical music performances, because I work 5 minutes from Carnegie Hall. Classical pieces I tend to learn by listening to a few times, until I start liking them. Then once I like it and recognize it, and can say something special about it, I've "learned" it.
