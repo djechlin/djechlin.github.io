@@ -1,13 +1,8 @@
 
 nav#dl-menu {
 	@media #{$medium}, #{$large} {
-		// The children of this element are absolute, so
-		// this has no height of its own. Must prop up
-		// before enable overflow:scroll. This is probably
-		// still a kludge.
-		height: 100%;
+		height: 90%;
 		max-height: 90%;
-		overflow: scroll;
 	}
 }
 
