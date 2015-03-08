@@ -6,6 +6,30 @@ comments: false
 
 I try to write posts that are actually useful. Generally they are useful to me, but the more personal posts I hope readers might find useful in thinking about themselves as well.
 
+# Articles
+
+These are some of the best articles I've read.
+
+####<a href="http://aeon.co/magazine/philosophy/ross-andersen-human-extinction/" target="_blank">Aeon Magazine: Humanity's Deep Future</a>
+
+This article shows Aeon magazine at its best and its worst. It is deeply imaginative while being extremely believable: about the future but still relevant. Unfortunately I believe it also shows that intellectual connections are cheap, and Aeon is full of them. Read at your own pleasure
+
+####<a href="http://www.bloomberg.com/news/articles/2012-09-18/what-mitt-romney-doesn-t-get-about-responsibility" target="_blank">Ezra Klein: What Romney Doesn't Get About Responsibility</a>
+
+An amazing introduction to the struggle of the poor and how cognitive bandwidth matters. I love how timeeless a piece in the heat of an election campaign turned out to be.
+
+#### <a href="http://6thfloor.blogs.nytimes.com/2013/07/31/george-saunderss-advice-to-graduates/" target="_blank">George Saunders Speech on Kindness</a>
+
+Beautiful, especially, because it is both very, very lofty and very, very worldly. It hits all the chords in you that respond to art and beauty while your practical sensibilities dote on it. Worth reading, worth living by.
+
+####<a href="https://medium.com/architecting-a-life/why-developing-serious-relationships-in-your-20s-matters-cff4161f551c" target="_blank">Why Developing Serious Relationships In Your Twenties Matters</a>
+
+A beautiful thing about how tragic life is and how building relationships is tantamount to enduring it with grace.
+
+####<a href="http://www.cs.virginia.edu/~evans/cs655/readings/purity.html" target="_blank">Douglas Hofstadter: A Person Paper on the Purity of Language</a>
+
+Convincing proof of the power of showing over telling.
+
 # Books
 
 ## Fiction
@@ -81,23 +105,3 @@ This book taught me to think of myself as an athlete, and I love how much direct
 * **Les Miserables**
 * **Revolt of the Masses**
 * **Our Better Angels**
-
-# Articles
-
-These are some of the best articles I've read.
-
-#### [Aeon Magazine: Humanity's Deep Future](http://aeon.co/magazine/philosophy/ross-andersen-human-extinction/)
-
-This article shows Aeon magazine at its best and its worst. It is deeply imaginative while being extremely believable: about the future but still relevant. Unfortunately I believe it also shows that intellectual connections are cheap, and Aeon is full of them. Read at your own pleasure
-
-#### [Ezra Klein: What Romney Doesn't Get About Responsibility](http://www.bloomberg.com/news/articles/2012-09-18/what-mitt-romney-doesn-t-get-about-responsibility)
-
-An amazing introduction to the struggle of the poor and how cognitive bandwidth matters. I love how timeeless a piece in the heat of an election campaign turned out to be.
-
-#### [Why Developing Serious Relationships In Your Twenties Matters](https://medium.com/architecting-a-life/why-developing-serious-relationships-in-your-20s-matters-cff4161f551c)
-
-A beautiful thing about how tragic life is and how building relationships is tantamount to enduring it with grace.
-
-#### [Douglas Hofstadter: A Person Paper on the Purity of Language](http://www.cs.virginia.edu/~evans/cs655/readings/purity.html)
-
-Definitive proof of the power of showing over telling.
