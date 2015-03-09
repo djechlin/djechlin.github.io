@@ -8,6 +8,8 @@ I am receiving treatment both for bipolar disorder (BPD) and obsessive compulsiv
 
 I have received treatment both via psychiatric medications and sessions with a therapist. I feel both are necessary. There are aspects of my illnesses that are extremely responsive to medication and aspects that are surprisingly responsive to talk therapy. This lets me grow.
 
+I'll try to describe what it's like to take a psychiatric drug that works. Imagine taking cocaine or ecstasy or some happy (harmful or not) drug, except you become more sober. You become more functional, more grounded, more connected, and relationships with other people suddenly become sober and present. Anyway, one day it hit me that this is what mentally healthy people feel like all the time, and that inspired me to write this piece.
+
 ## I've realized that "to anti-depressant or not to anti-depressant?" is a wrong and broken question
 
 I had one conversation where I urged a friend into a psychiatrist's care because she seemed to have a depression pattern. We went back and forth for a while and the discussion floated around "Will the psychiatrist give me an anti-depressant or not?"
