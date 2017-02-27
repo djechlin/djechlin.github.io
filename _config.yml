@@ -4,8 +4,7 @@ highlighter: pygments
 title : Daniel Echlin's Homepage
 description: Well-documented personal site
 image:
-  feature: shutterstock_lake_serene.jpg
-  credit: Shutterstock, with help from Lake Serene, Washington
+  feature: shutterstock_coffee.jpg
 owner :
   name: Daniel Echlin
   email: djechlin@gmail.com

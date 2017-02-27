@@ -4,11 +4,45 @@ layout: post-index
 comments: false
 ---
 
-I try to write posts that are actually useful. Generally they are useful to me, but the more personal posts I hope readers might find useful in thinking about themselves as well.
+# I am here to serve you
 
-# Articles
+I love every sort of informal consulting. My specialties and success stories tend to be within my domain, of course. But, if you are weighing:
 
-These are some of the best articles I've read.
+* Technical interview training (think big 4)
+* Setting curricula to involve you in a tech career
+* Occasionally lucky advice getting you paired up with a good therapist or psychiatrist
+* Connecting you with a political purpose
+* Breaking the ice with online dating
+* Skills for productivity and sleep
+* Understand how fitness and a workout fits your life
+* Occasionally getting lucky and geting you out of a relationship bind
+* Breaking your Standard American Diet into a plant-forward one
+* Building up racial dialogue in those who are white and need it most
+
+As for my public service:
+
+* I am extremely interested in working with disprivileged students remotely (email or instant message), very much for free.
+* I am extremely interested in building political activism
+* I am extremely interested in moving us forward in mental health
+
+If you are interested in any of these services to any capacity, please reach fill out here:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVPyQe2ctxMBloOx7ZxarcNLARNKbdW9UbSfAwcLoi3PML6g/viewform?embedded=true" width="760" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+In all of this I commit to caring for you beginning to end. I will do everything I can to avoid being treacherous. This is a real relationship we will be forming for as long as it lasts.
+
+As of now any lucky advice I give is free of charge. I may experiment with a donate-to-charity model so I can get a sense of revenue I can procure without interfering with my day job.
+
+As for my resume, I have enjoyed some very successful teaching experience as a counselor at PROMYS and the course guide for University of Michigan's Honors Math Sequence. I am currently an ambitious Googler with a bit of interview experience, especially focusing on intern interviews. I also enjoy learning science part time via a masters at Columbia. This may be awkward to share but I also have a bit of experience as a therapy *patient*. It has sharpened my mind quite a bit.
+
+# Reading Group
+
+I will send out an email newsletter with most compelling reads. Many will be political in nature but I will do my best to energize you. Nothing will be too scary unless it is also very actionable. This will be a simple email distribution until I have a better idea. Because I love Google forms, sign up here:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3Cud2-yfDchQDwJtQz3BzWpU_XmcvdG6QiFbDNPYPKY6m5g/viewform?embedded=true" width="760" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
+This list is a little old, but here is a spattering of articles I was interested in:
 
 ####<a href="http://aeon.co/magazine/philosophy/ross-andersen-human-extinction/" target="_blank">Aeon Magazine: Humanity's Deep Future</a>
 
