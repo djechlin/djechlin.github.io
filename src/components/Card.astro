@@ -1,4 +1,7 @@
+
 ---
+import { Button } from '../components/ui/button';
+import '@/styles/globals.css'
 interface Props {
 	title: string;
 	body: string;
@@ -7,6 +10,10 @@ interface Props {
 
 const { href, title, body } = Astro.props;
 ---
+
+<Button>
+	Button 1
+</Button>
 
 <li class="link-card">
 	<a href={href}>
