@@ -39,13 +39,32 @@ export function Portfolio() {
           </section>
 
           <section id="about" className="mb-16">
-            <h2 className="text-3xl font-bold mb-4">About Me</h2>
-            <p className="text-gray-600 dark:text-gray-400">
-            I'm a software engineer who has built high-scale systems at Google, MongoDB and Unroll.me, with a focus on designing and implementing scalable systems that meet complex business needs. I bring a strong foundation in both backend and frontend development in languages like C++, Java, Python, Go and Typescript.
+  <h2 className="text-3xl font-bold mb-4">About Me</h2>
+  <div className="space-y-4 text-gray-600 dark:text-gray-400">
+    <p>
+    As a seasoned software engineer with experience at industry leaders like Google, MongoDB, and Unroll.me, I specialize in architecting and implementing high-scale distributed systems that drive business success. My technical expertise spans both backend and frontend development, with deep proficiency in C++, Java, Python, Go, and TypeScript.
+    </p>
+    <p>
+    What sets me apart is my commitment to engineering excellence coupled with strong leadership capabilities. I thrive in fostering collaborative environments where I can mentor fellow engineers, establish engineering best practices, and optimize team processes. My approach centers on building robust, scalable solutions while ensuring the team grows together and maintains high standards of code quality.    </p>
+    <p>
+    Beyond traditional engineering, I bring unique experience in civic technology and grassroots organizing. As a relational canvassing coach and analyst, I've helped pioneer deep canvassing methodologies that proved instrumental in successful 2022 campaigns in Pennsylvania. This combination of technical expertise and civic engagement allows me to bridge the gap between technology and democratic participation, creating high-impact solutions that strengthen communities.
+    </p>
+  </div>
+</section>
 
-Beyond the code, I love supporting my team—whether that’s through mentoring, sharing knowledge, or finding ways to make our processes smoother and more effective. For me, it’s all about building great products in a collaborative, positive environment where everyone can thrive.
-
-            </p>
+          <section id="interests" className="mb-16">
+            <h2 className="text-3xl font-bold mb-4">Interests</h2>
+            <p className="text-gray-600 dark:text-gray-400 mb-4">
+              I'm interested in collaborating to improve our liberal democratic institutions and culture. I'm particularly concerned about topics including:
+              </p>
+            <ul className="list-disc list-inside text-gray-600 dark:text-gray-400 pl-4">
+<li><span className="font-semibold">How voters get information:</span> Private platforms dominate our civic discourse with algorithms that routinely amplify misinformation and propaganda. They optimize for engagement while failing to understand how influencers actually shape public opinion.</li>
+<li><span className="font-semibold">How "elites" get information on voters:</span> Polling is failing our democracy in today's polarized environment. Even statistical accuracy within margin of error leaves defeated parties blindsided about voter sentiment.</li>
+<li><span className="font-semibold">The fragility of electoral systems and ways to make voting infrastructure more resilient:</span> Our voting systems face mounting technical and social threats, requiring new approaches to guarantee election integrity.</li>
+<li><span className="font-semibold">Digital security for democratic actors, organizers and activists:</span> Current security solutions fail to address the unique threats faced by grassroots movements and organizers.</li>
+<li><span className="font-semibold">The need to keep organizers' technology up-to-date:</span> Movement technology often lags years behind, hampering organizing effectiveness and scale.</li>
+<li><span className="font-semibold">The cross-cutting impact of AI on these topics:</span> AI is reshaping how information spreads and opinions form, creating urgent challenges for democratic discourse.</li>
+            </ul>
           </section>
 
           <section id="projects" className="mb-16">
@@ -63,7 +82,7 @@ Beyond the code, I love supporting my team—whether that’s through mentoring,
               <Card className="w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(33.33%-1rem)] flex flex-col">
                 <CardContent className="p-4 flex flex-col flex-grow">
                   <h3 className="text-lg font-bold mb-2">Swap your vote</h3>
-                  <p className="text-sm text-gray-500 dark:text-gray-400 mb-4 flex-grow">Last-minute Airtable scripting contributions to matching algorithm (code not public).</p>
+                  <p className="text-sm text-gray-500 dark:text-gray-400 mb-4 flex-grow">Airtable scripting contributions to matching algorithm in 11th-hour voting project (code not public).</p>
                   <a className="text-sm text-blue-500 hover:underline mt-auto inline-block" target="_blank" href="https://swapyourvote.org">
                     swapyourvote.org
                   </a>
@@ -73,6 +92,15 @@ Beyond the code, I love supporting my team—whether that’s through mentoring,
                 <CardContent className="p-4 flex flex-col flex-grow">
                   <h3 className="text-lg font-bold mb-2">Census data per precinct</h3>
                   <p className="text-sm text-gray-500 dark:text-gray-400 mb-4 flex-grow">Geographic join in Python to figure out average income per precinct in some Philadelphia neighborhoods.</p>
+                  <a className="text-sm text-blue-500 hover:underline mt-auto inline-block" href="#">
+                    View Project
+                  </a>
+                </CardContent>
+              </Card>
+              <Card className="w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(33.33%-1rem)] flex flex-col">
+                <CardContent className="p-4 flex flex-col flex-grow">
+                  <h3 className="text-lg font-bold mb-2">danielechlin.xyz</h3>
+                  <p className="text-sm text-gray-500 dark:text-gray-400 mb-4 flex-grow">Astro, shadcn, and AI tools like v0.dev, Claude and Copilot.</p>
                   <a className="text-sm text-blue-500 hover:underline mt-auto inline-block" href="#">
                     View Project
                   </a>
