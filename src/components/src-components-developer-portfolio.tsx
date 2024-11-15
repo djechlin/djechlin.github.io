@@ -52,22 +52,7 @@ export function Portfolio() {
   </div>
 </section>
 
-          <section id="interests" className="mb-16">
-            <h2 className="text-3xl font-bold mb-4">Interests</h2>
-            <p className="text-gray-600 dark:text-gray-400 mb-4">
-              I'm interested in collaborating to improve our liberal democratic institutions and culture. I'm particularly concerned about topics including:
-              </p>
-            <ul className="list-disc list-inside text-gray-600 dark:text-gray-400 pl-4">
-<li><span className="font-semibold">How voters get information:</span> Private platforms dominate our civic discourse with algorithms that routinely amplify misinformation and propaganda. They optimize for engagement while failing to understand how influencers actually shape public opinion.</li>
-<li><span className="font-semibold">How "elites" get information on voters:</span> Polling is failing our democracy in today's polarized environment. Even statistical accuracy within margin of error leaves defeated parties blindsided about voter sentiment.</li>
-<li><span className="font-semibold">The fragility of electoral systems and ways to make voting infrastructure more resilient:</span> Our voting systems face mounting technical and social threats, requiring new approaches to guarantee election integrity.</li>
-<li><span className="font-semibold">Digital security for democratic actors, organizers and activists:</span> Current security solutions fail to address the unique threats faced by grassroots movements and organizers.</li>
-<li><span className="font-semibold">The need to keep organizers' technology up-to-date:</span> Movement technology often lags years behind, hampering organizing effectiveness and scale.</li>
-<li><span className="font-semibold">The cross-cutting impact of AI on these topics:</span> AI is reshaping how information spreads and opinions form, creating urgent challenges for democratic discourse.</li>
-            </ul>
-          </section>
-
-          <section id="projects" className="mb-16">
+<section id="projects" className="mb-16">
             <h2 className="text-3xl font-bold mb-8">Portfolio Projects</h2>
             <div className="flex flex-wrap justify-center gap-6">
               <Card className="w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(33.33%-1rem)] flex flex-col">
@@ -108,6 +93,22 @@ export function Portfolio() {
               </Card>
             </div>
           </section>
+
+          <section id="interests" className="mb-16">
+            <h2 className="text-3xl font-bold mb-4">Interests</h2>
+            <p className="text-gray-600 dark:text-gray-400 mb-4">
+              I'm interested in collaborating to improve our liberal democratic institutions and culture. I'm particularly concerned about topics including:
+              </p>
+            <ul className="list-disc list-inside text-gray-600 dark:text-gray-400 pl-4">
+<li><span className="font-semibold">How voters get information:</span> Private platforms dominate our civic discourse with algorithms that routinely amplify misinformation and propaganda. They optimize for engagement while failing to understand how influencers actually shape public opinion.</li>
+<li><span className="font-semibold">How "elites" get information on voters:</span> Polling is failing our democracy in today's polarized environment. Even statistical accuracy within margin of error leaves defeated parties blindsided about voter sentiment.</li>
+<li><span className="font-semibold">The fragility of electoral systems and ways to make voting infrastructure more resilient:</span> Our voting systems face mounting technical and social threats, requiring new approaches to guarantee election integrity.</li>
+<li><span className="font-semibold">Digital security for democratic actors, organizers and activists:</span> Current security solutions fail to address the unique threats faced by grassroots movements and organizers.</li>
+<li><span className="font-semibold">The need to keep organizers' technology up-to-date:</span> Movement technology often lags years behind, hampering organizing effectiveness and scale.</li>
+<li><span className="font-semibold">The cross-cutting impact of AI on these topics:</span> AI is reshaping how information spreads and opinions form, creating urgent challenges for democratic discourse.</li>
+            </ul>
+          </section>
+
 
           <section id="contact" className="mb-16">
             <h2 className="text-3xl font-bold mb-8">Get in Touch</h2>
