@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "djechlin.github.io",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -27,6 +27,7 @@
     "typescript": "^5.6.3"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.15",
     "autoprefixer": "^10.4.20",
     "tailwindcss": "^3.4.14"
   }
