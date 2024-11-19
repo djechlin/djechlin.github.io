@@ -1,0 +1,10 @@
+---
+import type { GetStaticPaths } from "astro";
+export const getStaticPaths = (() => {
+    // hardcode the paths for now
+    return [
+        {params: {post: "jposjjjt1"}},
+    ]
+}) satisfies GetStaticPaths;
+
+---
