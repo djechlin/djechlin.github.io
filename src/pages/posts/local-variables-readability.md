@@ -1,11 +1,33 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: A deeper look into uses and abuses of local variables
+title: Are your local variables helping or harming code readability?
 author: Dan Echlin
 date: 2024-11-19
 ---
 
-This is part of a series of posts on readability. It's probably redundant with resources like Robert Martin's *Clean Code*, nonetheless there's a few key themes that I've seen come up in code reviews frequently that I'd like to describe.
+Code should be "readable," which doesn't mean much in itself, but suggests we should evaluate code quality from the viewpoint of who's reading it. Readers rarely read code for its own sake; rather they read code to get answers about how the system works. So readable code is code that makes it easy to understand how the system works.
+
+As a code reviewer on various teams, I think code authors underestimate how much readable is helped or harmed by function implementations. Function implementation almost sounds too basic a topic, compared to class and component design, telemetry, using the right libraries and so forth. But code readers spend most of their time reading function bodies, so that function implementation has an outsized effect on code readability. And an unreadable function doesn't really make it hard to understand that function: it makes it hard for the reader to reason about the rest of the system since they're too busy trying to figure out that one function.
+
+The advice in this article is going to come down to "prefer immutables." But I'm going to show a lot of situations that rule gets violated and why it's so harmful.
+
+1. Delayed assignment
+2. If/then on whether something is assigned
+3. Recycled variable
+4. 
+
+There's a few 
+
+1. Almost all local variables should be either immutable or builders of immutables.
+2. 
+
+
+
+
+
+Code can be unreadable because it's misleading, and because it creates too much stuff to keep track of. 
+
+There's two main ways code can be un-readable: be misleading, and create too much stuff to keep track of. And a big contributor to all the stuff to keep track of is local variables. This may seem surprising: the main 
 
 To aim for "readable" code means to evaluate code from the viewpoint of a reader. Readers read code to get answers about how the system works, and two things purely about the quality of the code they are reading make this difficult: surprises, and too much to keep track of. Your code may be very well factored into classes and functions, but the structure of your functions and your use of local variables in your functions may cause surprises and create too much to keep track of.
 
