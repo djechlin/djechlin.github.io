@@ -8,19 +8,19 @@
     {
         "name": "Swap your vote",
         "description": "Airtable scripting contributions to matching algorithm in 11th-hour voting project (code not public).",
-        "linkTitle": "View Project",
+        "linkTitle": "swapyourvote.org",
         "url": "https://swapyourvote.org"
     },
     {
         "name": "Census data per precinct",
         "description": "Geographic join in Python to figure out average income per precinct in some Philadelphia neighborhoods.",
-        "linkTitle": "View Project",
+        "linkTitle": "Github repo",
         "url": "https://github.com/djechlin/ctc-geospatial"
     },
     {
         "name": "danielechlin.xyz",
         "description": "Astro, shadcn, and AI tools like v0.dev, Claude and Copilot.",
-        "linkTitle": "View Project",
+        "linkTitle": "Github repo",
         "url": "https://github.com/djechlin/djechlin.github.io/"
     }
 ]
