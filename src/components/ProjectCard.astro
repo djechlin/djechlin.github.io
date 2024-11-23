@@ -5,7 +5,7 @@ const { name, description, linkTitle, url } = Astro.props;
 
 ---
 
-<Card>
+<Card className="w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(33.33%-1rem)] flex flex-col">    
     <CardContent className="p-4 flex flex-col flex-grow">
         <h3 class="text-lg font-bold mb-2">{name}</h3>
         <p class="text-sm text-gray-500 dark:text-gray-400 mb-4 flex-grow">{description}</p>
