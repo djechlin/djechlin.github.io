@@ -2,28 +2,28 @@ import { InterestItem } from "./interest-item"
 
 const interests = [
   {
-    title: "How voters get information",
-    description: "Private platforms dominate our civic discourse with algorithms that routinely amplify misinformation and propaganda. They optimize for engagement while failing to understand how influencers actually shape public opinion."
+    title: "Information, misinformation and filter bubbles",
+    description: "Private platforms have outsized influence on civic discourse. Do voters care enough?"
   },
   {
-    title: "How \"elites\" get information on voters",
-    description: "Polling is failing our democracy in today's polarized environment. Even statistical accuracy within margin of error leaves defeated parties blindsided about voter sentiment."
+    title: "Polls, betting markets and public opinion research",
+    description: "How do we keep polls relevant in an era of high polarization and razor-thin election margins?"
   },
   {
-    title: "The fragility of electoral systems",
-    description: "Our voting systems face mounting technical and social threats, requiring new approaches to guarantee election integrity."
+    title: "Securely counting the votes",
+    description: "How do we securely count the votes, and convince everyone we did, even when Democrats win?"
   },
   {
-    title: "Digital security for democratic actors",
-    description: "Current security solutions fail to address the unique threats faced by grassroots movements and organizers."
+    title: "Digital security for poll workers and activists",
+    description: "Because it's getting scary out there."
   },
   {
-    title: "Keeping organizers' technology up-to-date",
-    description: "Movement technology often lags years behind, hampering organizing effectiveness and scale."
+    title: "Organizing technology",
+    description: "Why was Philadelphia oversaturated and Harrisburg a ghost town election weekend?"
   },
   {
     title: "The cross-cutting impact of AI",
-    description: "AI is reshaping how information spreads and opinions form, creating urgent challenges for democratic discourse."
+    description: "Maybe voters can just get their news from a personalized AI bot and all will be right in the world."
   }
 ]
 

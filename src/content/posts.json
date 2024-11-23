@@ -10,5 +10,11 @@
       "date": "2024-11-22",
       "excerpt": "",
       "href": "/posts/meetings-culture"
+    },
+    {
+        "title": "Recommended reading",
+        "date": "2024-11-22",
+        "excerpt": "An assorted collection of articles I found interesting",
+        "href": "/posts/recommended-reading"
     }
 ]
