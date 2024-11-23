@@ -4,7 +4,7 @@ import { Github, Linkedin, Mail } from 'lucide-react'
 import { Button } from "./ui/button"
 import Header from "./Header.astro"
 import Footer from "./Footer.astro"
-import BlogSection from "./BlogSection.astro"
+import PostsSection from "./PostsSection.astro"
 import { Card, CardContent } from "./ui/card"
 ---
 
@@ -20,9 +20,9 @@ import { Card, CardContent } from "./ui/card"
           <p class="text-xl text-gray-600 dark:text-gray-400 mb-8">
             Full-Stack Engineer | Democracy Enthusiast
           </p>
-          </div>
+        </div>
       </section>
-
+      
       <section id="about" class="mb-16">
         <h2 class="text-3xl font-bold mb-4">About Me</h2>
         <div class="space-y-4 text-gray-600 dark:text-gray-400">
@@ -31,7 +31,7 @@ import { Card, CardContent } from "./ui/card"
           </p>
         </div>
       </section>
-
+      
       <section id="projects" class="mb-16">
         <h2 class="text-3xl font-bold mb-8">Projects</h2>
         <div class="flex flex-wrap justify-center gap-6">
@@ -73,56 +73,68 @@ import { Card, CardContent } from "./ui/card"
           </Card>
         </div>
       </section>
-
-      <section id="blog" class="mb-16">
-        <BlogSection />
-      </section>
-
-      <section id="interests" class="mb-16">
-        <h2 class="text-3xl font-bold mb-4">Interests</h2>
-        <p class="text-gray-600 dark:text-gray-400 mb-4">
-          I'm interested in collaborating to improve our liberal democratic institutions and culture. I'm particularly concerned about topics including:
-          </p>
-        <ul class="list-disc list-inside text-gray-600 dark:text-gray-400 pl-4">
-<li><span class="font-semibold">How voters get information:</span> Private platforms dominate our civic discourse with algorithms that routinely amplify misinformation and propaganda. They optimize for engagement while failing to understand how influencers actually shape public opinion.</li>
-<li><span class="font-semibold">How "elites" get information on voters:</span> Polling is failing our democracy in today's polarized environment. Even statistical accuracy within margin of error leaves defeated parties blindsided about voter sentiment.</li>
-<li><span class="font-semibold">The fragility of electoral systems and ways to make voting infrastructure more resilient:</span> Our voting systems face mounting technical and social threats, requiring new approaches to guarantee election integrity.</li>
-<li><span class="font-semibold">Digital security for democratic actors, organizers and activists:</span> Current security solutions fail to address the unique threats faced by grassroots movements and organizers.</li>
-<li><span class="font-semibold">The need to keep organizers' technology up-to-date:</span> Movement technology often lags years behind, hampering organizing effectiveness and scale.</li>
-<li><span class="font-semibold">The cross-cutting impact of AI on these topics:</span> AI is reshaping how information spreads and opinions form, creating urgent challenges for democratic discourse.</li>
-        </ul>
-      </section>
-
-
-      <section id="contact" class="mb-16">
-        <h2 class="text-3xl font-bold mb-8">Get in Touch</h2>
-        <div class="text-center">
+      <PostsSection
+      id="writing"
+      header="Writing"
+      posts={[
+        {
+          title: "The Polling Cycle and Evolving Public Opinion",
+          date: "2024-11-18",
+          excerpt: "Public opinion is changing - will polls keep up?",
+          href: "/posts/polling-cycle"
+        },
+        {
+          title: "Meetings are about culture, not process",
+          date: "2024-11-22",
+          excerpt: "",
+          href: "/posts/meetings-culture"
+        }
+        ]}/>
+        <section id="interests" class="mb-16">
+          <h2 class="text-3xl font-bold mb-4">Interests</h2>
           <p class="text-gray-600 dark:text-gray-400 mb-4">
-            I&apos;m always open to new opportunities and collaborations. Feel free to reach out!
+            I'm interested in collaborating to improve our liberal democratic institutions and culture. I'm particularly concerned about topics including:
           </p>
-          <div class="flex justify-center space-x-4">
-            <a href="https://github.com/djechlin" target="_blank" rel="noopener noreferrer">
-              <Button size="icon" variant="outline">
-                <Github className="h-4 w-4" />
-                <span class="sr-only">GitHub</span>
-              </Button>
-            </a>
-            <a href="https://www.linkedin.com/in/daniel-echlin-9abb04248/" target="_blank" rel="noopener noreferrer">
-              <Button size="icon" variant="outline">
-                <Linkedin className="h-4 w-4" />
-                <span class="sr-only">LinkedIn</span>
-              </Button>
-            </a>
-            <a href="mailto:dan773355@danielechlin.xyz">
-              <Button size="icon" variant="outline">
-                <Mail className="h-4 w-4" />
-                <span class="sr-only">Email</span>
-              </Button>
-            </a>
+          <ul class="list-disc list-inside text-gray-600 dark:text-gray-400 pl-4">
+            <li><span class="font-semibold">How voters get information:</span> Private platforms dominate our civic discourse with algorithms that routinely amplify misinformation and propaganda. They optimize for engagement while failing to understand how influencers actually shape public opinion.</li>
+            <li><span class="font-semibold">How "elites" get information on voters:</span> Polling is failing our democracy in today's polarized environment. Even statistical accuracy within margin of error leaves defeated parties blindsided about voter sentiment.</li>
+            <li><span class="font-semibold">The fragility of electoral systems and ways to make voting infrastructure more resilient:</span> Our voting systems face mounting technical and social threats, requiring new approaches to guarantee election integrity.</li>
+            <li><span class="font-semibold">Digital security for democratic actors, organizers and activists:</span> Current security solutions fail to address the unique threats faced by grassroots movements and organizers.</li>
+            <li><span class="font-semibold">The need to keep organizers' technology up-to-date:</span> Movement technology often lags years behind, hampering organizing effectiveness and scale.</li>
+            <li><span class="font-semibold">The cross-cutting impact of AI on these topics:</span> AI is reshaping how information spreads and opinions form, creating urgent challenges for democratic discourse.</li>
+          </ul>
+        </section>
+        
+        
+        <section id="contact" class="mb-16">
+          <h2 class="text-3xl font-bold mb-8">Get in Touch</h2>
+          <div class="text-center">
+            <p class="text-gray-600 dark:text-gray-400 mb-4">
+              I&apos;m always open to new opportunities and collaborations. Feel free to reach out!
+            </p>
+            <div class="flex justify-center space-x-4">
+              <a href="https://github.com/djechlin" target="_blank" rel="noopener noreferrer">
+                <Button size="icon" variant="outline">
+                  <Github className="h-4 w-4" />
+                  <span class="sr-only">GitHub</span>
+                </Button>
+              </a>
+              <a href="https://www.linkedin.com/in/daniel-echlin-9abb04248/" target="_blank" rel="noopener noreferrer">
+                <Button size="icon" variant="outline">
+                  <Linkedin className="h-4 w-4" />
+                  <span class="sr-only">LinkedIn</span>
+                </Button>
+              </a>
+              <a href="mailto:dan773355@danielechlin.xyz">
+                <Button size="icon" variant="outline">
+                  <Mail className="h-4 w-4" />
+                  <span class="sr-only">Email</span>
+                </Button>
+              </a>
+            </div>
           </div>
-        </div>
-      </section>
-    </div>
-  </main>
-  <Footer />
-</div>
+        </section>
+      </div>
+    </main>
+    <Footer />
+  </div>

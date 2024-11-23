@@ -6,15 +6,16 @@ Software engineers fall into two categories: variable naming "skeptics" and vari
 
 I'm more in the "believer" camp, but I concede that variable naming is not in and of itself a valuable activity. Writing good code is a valuable activity, but so is delivering quickly, so this doesn't tell us how much time to spend on variable naming. Teams need to agree on *code standards* for what is a good variable name, and *review standards* for how much time to spend getting there.
 
-I propose 3 objective rules that good variable names must follow:
+Good variable naming comes down to three rules:
 
 1. Unambiguous
 2. One-to-one
 3. Short
 
-There are two qualities I omitted from this list: "accurate" and "is just a good name."
-
+ 
 ### Unambiguous
+
+
 
 ### One-to-one
 
