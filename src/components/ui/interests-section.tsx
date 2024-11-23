@@ -29,8 +29,7 @@ const interests = [
 
 export function InterestsSection() {
     return (
-      <section id="interests" className="py-16">
-        <div className="container mx-auto px-4">
+      <section id="interests" className="mb-16">
           <h2 className="text-3xl font-bold mb-6 text-primary">Interests</h2>
           <p className="text-lg text-muted-foreground mb-8 max-w-3xl">
             I'm interested in collaborating to improve our liberal democratic institutions and culture. I'm particularly concerned about the following topics:
@@ -40,7 +39,6 @@ export function InterestsSection() {
               <InterestItem key={index} title={interest.title} description={interest.description} />
             ))}
           </div>
-        </div>
       </section>
     )
   }
