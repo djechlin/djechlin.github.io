@@ -1,0 +1,26 @@
+[
+    {
+        "name": "AQI bot",
+        "description": "Posts the AQI near Central Park, NY to Bluesky. Experiment with Bluesky bots and Vercel crons.",
+        "linkTitle": "bsky.app",
+        "url": "https://bsky.app/profile/aqibot.bsky.social"
+    },
+    {
+        "name": "Swap your vote",
+        "description": "Airtable scripting contributions to matching algorithm in 11th-hour voting project (code not public).",
+        "linkTitle": "View Project",
+        "url": "https://swapyourvote.org"
+    },
+    {
+        "name": "Census data per precinct",
+        "description": "Geographic join in Python to figure out average income per precinct in some Philadelphia neighborhoods.",
+        "linkTitle": "View Project",
+        "url": "https://github.com/djechlin/ctc-geospatial"
+    },
+    {
+        "name": "danielechlin.xyz",
+        "description": "Astro, shadcn, and AI tools like v0.dev, Claude and Copilot.",
+        "linkTitle": "View Project",
+        "url": "https://github.com/djechlin/djechlin.github.io/"
+    }
+]
