@@ -6,6 +6,7 @@ import Header from "./Header.astro"
 import Footer from "./Footer.astro"
 import PostsSection from "./PostsSection.astro"
 import { Card, CardContent } from "./ui/card"
+import ProjectCard from "./ProjectCard.astro"
 ---
 
 <div class="flex flex-col min-h-screen bg-background">
@@ -22,7 +23,6 @@ import { Card, CardContent } from "./ui/card"
           </p>
         </div>
       </section>
-      
       <section id="about" class="mb-16">
         <h2 class="text-3xl font-bold mb-4">About Me</h2>
         <div class="space-y-4 text-gray-600 dark:text-gray-400">
@@ -31,46 +31,29 @@ import { Card, CardContent } from "./ui/card"
           </p>
         </div>
       </section>
-      
       <section id="projects" class="mb-16">
         <h2 class="text-3xl font-bold mb-8">Projects</h2>
         <div class="flex flex-wrap justify-center gap-6">
-          <Card className="w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(33.33%-1rem)] flex flex-col">
-            <CardContent className="p-4 flex flex-col flex-grow">
-              <h3 class="text-lg font-bold mb-2">AQI bot</h3>
-              <p class="text-sm text-gray-500 dark:text-gray-400 mb-4 flex-grow">Posts the AQI near Central Park, NY to Bluesky. Experiment with Bluesky bots and Vercel crons.</p>
-              <a class="text-sm text-blue-500 hover:underline mt-auto inline-block" target="_blank" href="https://bsky.app/profile/aqibot.bsky.social">
-                bsky.app
-              </a>
-            </CardContent>
-          </Card>
-          <Card className="w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(33.33%-1rem)] flex flex-col">
-            <CardContent className="p-4 flex flex-col flex-grow">
-              <h3 class="text-lg font-bold mb-2">Swap your vote</h3>
-              <p class="text-sm text-gray-500 dark:text-gray-400 mb-4 flex-grow">Airtable scripting contributions to matching algorithm in 11th-hour voting project (code not public).</p>
-              <a class="text-sm text-blue-500 hover:underline mt-auto inline-block" target="_blank" href="https://swapyourvote.org">
-                swapyourvote.org
-              </a>
-            </CardContent>
-          </Card>
-          <Card className="w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(33.33%-1rem)] flex flex-col">
-            <CardContent className="p-4 flex flex-col flex-grow">
-              <h3 class="text-lg font-bold mb-2">Census data per precinct</h3>
-              <p class="text-sm text-gray-500 dark:text-gray-400 mb-4 flex-grow">Geographic join in Python to figure out average income per precinct in some Philadelphia neighborhoods.</p>
-              <a class="text-sm text-blue-500 hover:underline mt-auto inline-block" href="https://github.com/djechlin/ctc-geospatial">
-                View Project
-              </a>
-            </CardContent>
-          </Card>
-          <Card className="w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(33.33%-1rem)] flex flex-col">
-            <CardContent className="p-4 flex flex-col flex-grow">
-              <h3 class="text-lg font-bold mb-2">danielechlin.xyz</h3>
-              <p class="text-sm text-gray-500 dark:text-gray-400 mb-4 flex-grow">Astro, shadcn, and AI tools like v0.dev, Claude and Copilot.</p>
-              <a class="text-sm text-blue-500 hover:underline mt-auto inline-block" href="#">
-                View Project
-              </a>
-            </CardContent>
-          </Card>
+          <ProjectCard
+            name="AQI bot"
+            description="Posts the AQI near Central Park, NY to Bluesky. Experiment with Bluesky bots and Vercel crons."
+            linkTitle="bsky.app"
+            url="https://bsky.app/profile/aqibot.bsky.social" />
+          <ProjectCard
+            name="Swap your vote"
+            description="Airtable scripting contributions to matching algorithm in 11th-hour voting project (code not public)."
+            linkTitle="View Project"
+            url="https://swapyourvote.org" />
+          <ProjectCard
+            name="Census data per precinct"
+            description="Geographic join in Python to figure out average income per precinct in some Philadelphia neighborhoods."
+            linkTitle="View Project"
+            url="https://github.com/djechlin/ctc-geospatial" />
+          <ProjectCard
+            name="danielechlin.xyz"
+            description="Astro, shadcn, and AI tools like v0.dev, Claude and Copilot."
+            linkTitle="View Project"
+            url="https://github.com/djechlin/djechlin.github.io/" />
         </div>
       </section>
       <PostsSection
@@ -104,8 +87,6 @@ import { Card, CardContent } from "./ui/card"
             <li><span class="font-semibold">The cross-cutting impact of AI on these topics:</span> AI is reshaping how information spreads and opinions form, creating urgent challenges for democratic discourse.</li>
           </ul>
         </section>
-        
-        
         <section id="contact" class="mb-16">
           <h2 class="text-3xl font-bold mb-8">Get in Touch</h2>
           <div class="text-center">
