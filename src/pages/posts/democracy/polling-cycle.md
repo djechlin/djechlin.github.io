@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/BlogPost.astro"
+layout: "@/layouts/BlogPost.astro"
 author: "Dan Echlin"
 date: "2024-11-18"
 title: "The Polling Cycle and Evolving Public Opinion"

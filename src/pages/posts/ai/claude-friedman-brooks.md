@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/BlogPost.astro"
+layout: "@/layouts/BlogPost.astro"
 title: "AI Experiments: Claude at the New York Times"
 author: Dan Echlin
 date: "2024-11-18"

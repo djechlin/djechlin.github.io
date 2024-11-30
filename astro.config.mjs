@@ -10,5 +10,12 @@ export default defineConfig({
   site: 'https://danielechlin.xyz',
   integrations: [react(), tailwind({
     applyBaseStyles: false
-  })]
+  })],
+  vite: {
+    resolve: {
+      alias: {
+        '@': '/src'
+      }
+    }
+  }
 });

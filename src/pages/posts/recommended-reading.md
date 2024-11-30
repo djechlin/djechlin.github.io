@@ -1,5 +1,5 @@
 ---
-layout: '../../layouts/BlogPost.astro'
+layout: '@/layouts/BlogPost.astro'
 title: Recommended reading
 author: Dan Echlin
 date: November 22nd, 2024

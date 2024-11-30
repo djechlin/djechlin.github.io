@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/BlogPost.astro
+layout: @/layouts/BlogPost.astro
 title: Meetings are about culture, not process
 author: Daniel Echlin
 date: November 22nd, 2024

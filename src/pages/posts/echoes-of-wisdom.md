@@ -1,6 +1,6 @@
 ---
 title: Echoes of Wisdom Review
-layout: '../../layouts/BlogPost.astro'
+layout: '@/layouts/BlogPost.astro'
 date: 'November 29th, 2024'
 author: 'Daniel Echlin'
 ---

@@ -12,10 +12,7 @@ Good variable naming comes down to three rules:
 2. One-to-one
 3. Short
 
- 
 ### Unambiguous
-
-
 
 ### One-to-one
 
