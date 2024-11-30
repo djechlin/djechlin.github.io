@@ -1,10 +1,8 @@
 ---
-layout: @/layouts/BlogPost.astro
+layout: '@/layouts/BlogPost.astro'
 title: On being blocked
 author: Daniel Echlin
 date: November 22nd, 2024
-tags:
-    - tech
 ---
 
 I read Gergely Orosz, *The Software Engineer's Guidebook*, because Orosz's blog [The Pragmatic Engineer Newsletter](https://www.pragmaticengineer.com/) is really good, and because the book is framed for senior-plus engineers unlike many of these titles.

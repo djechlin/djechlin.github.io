@@ -3,6 +3,7 @@ layout: '@/layouts/BlogPost.astro'
 title: Meetings are about culture, not process
 author: Daniel Echlin
 date: November 22nd, 2024
+toc: true
 url: https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a
 tags:
   - tech

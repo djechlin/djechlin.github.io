@@ -3,6 +3,7 @@ layout: "@/layouts/BlogPost.astro"
 title: "AI Experiments: Claude at the New York Times"
 author: Daniel Echlin
 date: "2024-11-18"
+toc: true
 ---
 
 I asked Claude to write a short essay on a neutral topic three times: first in a neutral voice, then in the voices of Tom Friedman and David Brooks. You can use this to make fun of these writers, or to contemplate how "argument" and "style" can be separated. Without further ado...
