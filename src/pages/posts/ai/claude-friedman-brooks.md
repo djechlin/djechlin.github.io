@@ -1,7 +1,7 @@
 ---
 layout: "@/layouts/BlogPost.astro"
 title: "AI Experiments: Claude at the New York Times"
-author: Dan Echlin
+author: Daniel Echlin
 date: "2024-11-18"
 ---
 

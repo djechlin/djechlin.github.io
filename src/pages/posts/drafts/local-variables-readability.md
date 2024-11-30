@@ -1,7 +1,7 @@
 ---
 layout: "../@/layouts/BlogPost.astro"
 title: Are your local variables helping or harming code readability?
-author: Dan Echlin
+author: Daniel Echlin
 date: 2024-11-19
 ---
 

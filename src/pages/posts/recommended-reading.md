@@ -1,7 +1,8 @@
 ---
 layout: '@/layouts/BlogPost.astro'
+toc: false
 title: Recommended reading
-author: Dan Echlin
+author: Daniel Echlin
 date: November 22nd, 2024
 ---
 
@@ -9,7 +10,7 @@ date: November 22nd, 2024
 
 "Young, eccentric techies are fighting for control of the future while operating on a model largely inspired by Mark Zuckerberg’s success turning a web tool for rating his college classmates’ attractiveness into an $800 billion attention-harvesting juggernaut."
 
-### [The emerging (Republican) working class majority (2023)](https://www.politico.com/news/magazine/2023/11/04/new-republican-party-working-class-coalition-00122822) 
+### [The emerging (Republican) working class majority (2023)](https://www.politico.com/news/magazine/2023/11/04/new-republican-party-working-class-coalition-00122822)
 
 "The choice to finish college and to not finish (or even start) is now the choice that says the most about who you are and what you value in life — between self-actualization in a competitive professional field or an honest day’s work mainly as a way to provide for your family; between acquiring knowledge for its own sake or staying close to the people and places you knew growing up."
 
