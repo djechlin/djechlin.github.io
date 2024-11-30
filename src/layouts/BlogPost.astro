@@ -22,7 +22,7 @@ const { headings } = Astro.props;
                         <div class="text-sm text-muted-foreground mb-8">
                             <span>{date}</span> • <span>{author}</span>
                         </div>
-                        <div class="prose dark:prose-invert prose-lg max-w-none">
+                        <div class="prose dark:prose-invert prose-lg max-w-none [&_li]:my-0 [&_ul]:my-0">
                             <slot />
                         </div>
                     </article>
