@@ -1,5 +1,11 @@
 [
     {
+        "name": "Practice deep canvassing",
+        "description": "Hume-based AI voice app to practice relational canvassing with a pretend voter.",
+        "linkTitle": "Try on vercel.app",
+        "url": "https://empathic-voice-interface-starter-liard-ten.vercel.app/"
+    },
+    {
         "name": "AQI bot",
         "description": "Posts the AQI near Central Park, NY to Bluesky. Experiment with Bluesky bots and Vercel crons.",
         "linkTitle": "bsky.app",
