@@ -1,26 +1,23 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import TableOfContents from '../components/TableOfContents.astro';
 import '../styles/globals.css'
 
-const { title, date, author, toc } = Astro.props.frontmatter;
-const { headings } = Astro.props;
+const { title, date, author } = Astro.props.frontmatter;
 ---
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width" />
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
     </head>
     <body class="bg-background text-foreground min-h-screen flex flex-col">
         <Header />
         <main class="flex-1">
             <div class="container mx-auto px-4 py-8 max-w-5xl">
                 <div class="flex flex-col lg:flex-row gap-8">
-                    <aside class="lg:w-1/5 order-2 lg:order-1">
-                        { toc && <TableOfContents headings={headings} /> }
-                    </aside>
-                    <article class="lg:w-4/5 order-1 lg:order-2">
+                    <article class="order-1 lg:order-2">
                         <h1 class="text-4xl font-bold mb-4">{title}</h1>
                         <div class="text-sm text-muted-foreground mb-8">
                             <span>{date}</span> • <span>{author}</span>
@@ -36,3 +33,34 @@ const { headings } = Astro.props;
     </body>
 </html>
 
+<style is:global>
+	:root {
+		--accent: 136, 58, 234;
+		--accent-light: 224, 204, 250;
+		--accent-dark: 49, 10, 101;
+		--accent-gradient: linear-gradient(
+			45deg,
+			rgb(var(--accent)),
+			rgb(var(--accent-light)) 30%,
+			white 60%
+		);
+	}
+	html {
+		font-family: "Open Sans", Helvetica, Arial, Verdana, sans-serif;
+		background: #13151a;
+	}
+    h1, h2, h3, h4, h5, h6 {
+ font-family: 'Lora', serif;
+}
+	code {
+		font-family:
+			Menlo,
+			Monaco,
+			Lucida Console,
+			Liberation Mono,
+			DejaVu Sans Mono,
+			Bitstream Vera Sans Mono,
+			Courier New,
+			monospace;
+	}
+</style>
